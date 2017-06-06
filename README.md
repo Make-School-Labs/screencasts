@@ -26,36 +26,6 @@ Sometimes it is faster to create a screencast than it is to write and describe a
 
 Video is very captivating and effective form of communication. 
 
-## Do's and don'ts
-
-**Do**
-
-- Make short videos 5 to 10 mins.
-- Speak slowly and clearly
-- Use a mic (not the built in mic) if you can
-- Practice
-- Don't be afraid to do a second take
-  - If the video is only 5 to 10 minutes long do it again will only be another 5 to 10 minutes. 
-- Plan what you will do in advance
-  - Walk through the whole video before recording. 
-- Clean your desktop!
-  - Having a lot of visual distractions is distracting. 
-    - Remove all of the extra files from your desktop. 
-    - Hide your HD. (Finder > Preferences > General)
-  - For bonus points use a Make School image for your desktop image.
-- Decrease the resolution of your screen (System Preferences > Displays choose "Scaled" 
-and pick a size.)
-- Use the Zoom option under preferences (System Preferences > Accessibility > Zoom. Choose 
-"Use keyboard shortcut to zoom" or "Use scroll gesture to zoom")
-- Increase the font size in any application you might be working in. 
-  - Xcode > Preferences > Fonts & colors: Choose Presentation or Presentation Large. 
-  - Atom and Brackets allow the font size to be increased with: ⌘+
-
-**Don't**
-
-- Try to avoid too many "um's" and "oh's"
-- Don't fumble around your system looking for files.
-
 ## Tools
 
 The easiest and less costly method for creating screencasts is QuickTime. 
@@ -105,4 +75,33 @@ Make a short test video.
 > A Record icon appears in the menu bar. Click this to stop recording. Play your file. 
 > Listen for the volume and sound quality.
 
+## Do's and don'ts
+
+**Do**
+
+- Make short videos 5 to 10 mins.
+- Speak slowly and clearly
+- Use a mic (not the built in mic) if you can
+- Practice
+- Don't be afraid to do a second take
+  - If the video is only 5 to 10 minutes long do it again will only be another 5 to 10 minutes. 
+- Plan what you will do in advance
+  - Walk through the whole video before recording. 
+- Clean your desktop!
+  - Having a lot of visual distractions is distracting. 
+    - Remove all of the extra files from your desktop. 
+    - Hide your HD. (Finder > Preferences > General)
+  - For bonus points use a Make School image for your desktop image. 
+- Decrease the resolution of your screen (System Preferences > Displays choose "Scaled" 
+and pick a size.)
+- Use the Zoom option under preferences (System Preferences > Accessibility > Zoom. Choose 
+"Use keyboard shortcut to zoom" or "Use scroll gesture to zoom")
+- Increase the font size in any application you might be working in. 
+  - Xcode > Preferences > Fonts & colors: Choose Presentation or Presentation Large. 
+  - Atom and Brackets allow the font size to be increased with: ⌘+
+
+**Don't**
+
+- Try to avoid too many "um's" and "oh's"
+- Don't fumble around your system looking for files.
 
