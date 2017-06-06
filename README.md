@@ -34,20 +34,24 @@ Quicktime is free and works well. You can also screencast from an iOS device.
 ### System Setup 
 
 Set the screen size. This makes everything larger. Realize the finished video when viewed 
-will be *smaller* than your screen size. It is important to make everything larger than 
-you would normally work. 
+will be *smaller* than your screen size. *It is important to make everything larger than 
+you would normally work.* 
 
 Clean up your desktop and get your files together. Consider only keeping the files that 
-will be used in the demo on your desktop. 
+will be used in the demo on your desktop (and nothing else). 
 
 > You might create an account just for creating screencasts.
 
 > System Preferences > Displays. Choose Scaled and then choose a size. 
 
+![displays scaled](./display-scaled.png)
+
 Set the zoom. You can use this to zoom into the screen to show details:
 
 > System Preferences > Accessibility > Zoom: Turn on the keyboard shortcut for Zoom, 
-> and consider turning on "Use Scroll gesture...". Memorize the keyboard shortcuts!
+> and consider turning on "Use Scroll gesture...". Memorize the keyboard shortcuts! 
+
+![accessibility-zoom](./accessibility-zoom.png)
 
 Check your sound. If you have an external mic consider using it. The sound quality will 
 be much better. 
@@ -57,6 +61,8 @@ Choose your sound source:
 > System Preferences > Sound > Input: Choose your input. Look at the levels and adjust. 
 > You want as much volume going in as you can get without topping out.  
 
+![sound-input](./sound-input.png)
+
 ## Setup QuickTime
 
 Test Quicktime before making your video.
@@ -65,8 +71,12 @@ Test Quicktime before making your video.
 > the record levels QuickTime is seeing. Make sure you see these move. Try to get they 
 > to go as high as possible without hitting the end of the bar. 
 
+![quicktime-record-levels](./quicktime-record-levels.png)
+
 *If you aren't getting levels in QuickTime click the > next to the Record button. Choose
 the mic you are using and test again.*
+
+![quicktime-choose-source](./quicktime-choose-source.png)
 
 Make a short test video. 
 
