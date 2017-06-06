@@ -91,7 +91,7 @@ Make a short test video.
   - Having a lot of visual distractions is distracting. 
     - Remove all of the extra files from your desktop. 
     - Hide your HD. (Finder > Preferences > General)
-  - For bonus points use a Make School image for your desktop image. 
+  - For bonus points use a Make School image for your desktop image. [make-school-logo.png](./make-school-logo.png)
 - Decrease the resolution of your screen (System Preferences > Displays choose "Scaled" 
 and pick a size.)
 - Use the Zoom option under preferences (System Preferences > Accessibility > Zoom. Choose 
